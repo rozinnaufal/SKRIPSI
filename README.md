@@ -12,3 +12,7 @@ This repo is about my thesis 💻.
 # val batch 1
 
 ![val_batch1_pred](https://user-images.githubusercontent.com/99315609/180750627-0298ce47-2c41-441f-ba97-0c7b94076df0.jpg)
+
+# Labels
+
+![labels](https://user-images.githubusercontent.com/99315609/180750996-fbfc3b1c-e6fe-4752-b7b3-7301f1621b2a.jpg)
